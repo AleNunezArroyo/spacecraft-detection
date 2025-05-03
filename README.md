@@ -1,5 +1,7 @@
 # spacecraft-detection
 
+En la carpeta CourseMaterial encontrarás las diapositivas (Slides) y los códigos utilizados durante las clases (Codes). El entrenamiento con YOLO está disponible en CourseMaterial/Codes/Clase2.ipynb.
+
 🛰️ Dataset principal para el taller
 
 - 📘 [Paper: _A Spacecraft Dataset for Detection, Segmentation and Parts Recognition_](https://arxiv.org/pdf/2106.08186)
