@@ -2,6 +2,10 @@
 
 En la carpeta CourseMaterial encontrarás las diapositivas (Slides) y los códigos utilizados durante las clases (Codes). El entrenamiento con YOLO está disponible en CourseMaterial/Codes/Clase2.ipynb.
 
+Enlaces directos a Google Colab:
+- [Clase 1](https://colab.research.google.com/drive/1Qq6mF3vV07mR7b3wlCzvY58fOBhVfBYv?usp=sharing)
+- [Clase 2](https://colab.research.google.com/drive/12yqmNQH5n48fzA118aN8ekfeyFDeiHKX?usp=sharing)
+
 🛰️ Dataset principal para el taller
 
 - 📘 [Paper: _A Spacecraft Dataset for Detection, Segmentation and Parts Recognition_](https://arxiv.org/pdf/2106.08186)
